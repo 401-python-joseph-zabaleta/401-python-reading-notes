@@ -13,6 +13,7 @@ Angela Lee Duckworth is a Psychologist who studies concepts of self-control and 
 
 ### Alian de Botton on Redefining Success  
 [Link to Video](https://www.ted.com/talks/alain_de_botton_a_kinder_gentler_philosophy_of_success)  
+Alian de Botton
 
 ### The Drs. Sarah on Imposter Syndrome - Pt 1  
 [Link to Audio](https://soundcloud.com/drssarahcare/self-care-with-drs-sarah-impostor-syndrome-part-i)  
