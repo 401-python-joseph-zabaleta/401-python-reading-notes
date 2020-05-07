@@ -77,7 +77,47 @@ This is a summary of a beginners guide to Linux command line (BASH). There are 1
     - Great reference to look up is regex or regular expressions.  
 
 8. [Permissions](https://ryanstutorials.net/linuxtutorial/permissions.php)  
+    - Permissions allow users to do three actions on a file:  
+        - `r` read: you may view a contents of a file.  
+        - `w` write: you may change the contents of the file.  
+        - `x` execute: you may execute or run the file if it is a program or script.  
+    - For every file there is a set that people belong to:
+        - `owner`: A single person who owns the file.  
+        - `group`: every file belongs to a single group.  
+        - `others`: everyone else who is not in the group or the owner.  
+    - `ls -l[path]`: To view the permission for a file.
+    - `ls -ld`: View the permissions for a specific directory.  
+        - first 10 characters of the output covers the the permissions.  
+        - 1st character is the file type  
+        - next 3 are owner permissions  
+        - next 3 are group permissions  
+        - last 3 are other permissions  
+    - `chmod[permissions][path]`: To change permissions on a file.  
 
+9. [Filters](https://ryanstutorials.net/linuxtutorial/filters.php)  
+    - Filters are used to transform data in a particular way. It can take raw data, data stored in files, and manipulate it to be displayed in a way more desired view.  
+    - `cat somefile.txt` might display 100 lines of text and we only want the first few lines.  
+        - Use `head` filter, `head somefile.txt` by default will show first 10 lines, but we can change it more if we chooose.  
+        - `tail` is the same but from the bottom of the file up.  
+    - `sort somefile.txt`: will sort the data by default alphabetically.  
+    - `nl`: number lines, will print n-th number of lines in a file.  
+    - `wc`: word count, will do just that, count words.  
+    - `cut`: Great if you need to seperate columns out of a files.  
+    - `sed`: Stream editor, allows us to search and replace on our data.
+    - `uniq`: unique, can remove duplciates from a file.  
+    - `tac`: its cat in reverse on purpose. It does the opposite of cat and prints last line to first line.  
 
+10. [Grep and Regular Expressions](https://ryanstutorials.net/linuxtutorial/grep.php)  
+    - `egrep` is a program that searches a given set of data and prints every line that matches a given pattern.  
+    - `egrep[command line options]<pattern>[path]`
+    - This requires a lot of practice with regex and is a powerful way to identify pieces of information and manipulate data.  
 
+11. [Piping and Redirection](https://ryanstutorials.net/linuxtutorial/piping.php)  
+
+12. [Process Management](https://ryanstutorials.net/linuxtutorial/processes.php)  
+
+13. [Bash Scripting](https://ryanstutorials.net/linuxtutorial/scripting.php)  
+
+14. [Cheatsheet](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)  
+    - This is a great reference sheet. It covers the main concepts of the terminal and has a small description of what each command does. Something good to look at from time to time and remember that "Oh I have manual pages!" might be good tool over Google.  
 
