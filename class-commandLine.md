@@ -113,10 +113,35 @@ This is a summary of a beginners guide to Linux command line (BASH). There are 1
     - This requires a lot of practice with regex and is a powerful way to identify pieces of information and manipulate data.  
 
 11. [Piping and Redirection](https://ryanstutorials.net/linuxtutorial/piping.php)  
-
+    - Every program we run on the command line has three data streams:  
+        - STDIN(0), STDOUT(1), and STDERR(2)  
+    - Normally we get our outputs in the terminal but we can redirect them to a file to save, send or review.  
+    - NOTE: When piping and redirecting, the actual data will always be the same, but formatting of that data may be slightly different to what is normally printed to the screen.  
+    - Commands:  
+        - `>` save output to a file  
+        - `>>` append output to a file  
+        - `<` Read input from a file.  
+        - `2>` Redirect error messages  
+        - `|` Send the output from one program as input to another program  
+    
 12. [Process Management](https://ryanstutorials.net/linuxtutorial/processes.php)  
+    - This is how we control and manage a program. A program is a series of instructions to tell the computer what to do.  
+    - Linux like most modern OS's is a multitasking operating system.  
+    - `top`: gives us a snap shotof what is currently happening on the system.
+    - `ps`: Is another command that stands for processes.  
+    - Sometimes programs crash and browsers freeze up and we need to end that process with `kill[signal]<PID>`  
+    - CONTROL: WE have quite a bit of control over the running of our programs.  
+    - NOTE: Normal users may only kill processes which they are the owner for. The root user on the system may kill anyones processes.  
+
 
 13. [Bash Scripting](https://ryanstutorials.net/linuxtutorial/scripting.php)  
+    - There is a whole tutorial dedicated to scripting: [Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/)  
+    - Bash script in computing terms is similiar to a script in a theatrical terms. Its a document with a list of things to do.  
+    - Allows us to define a series of actions to do without us inputing the commands.  
+    - Interpreter is used to read and act on the bash script.  
+    - `echo<message>` This is a simple bash script example.  
+    - In our scripts the first line defines the interpreter to use.  
+    - NOTE: Bash is picky about formatting. Ensure spaces are where they are needed and not put when they are not required.  
 
 14. [Cheatsheet](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)  
     - This is a great reference sheet. It covers the main concepts of the terminal and has a small description of what each command does. Something good to look at from time to time and remember that "Oh I have manual pages!" might be good tool over Google.  
