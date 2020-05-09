@@ -2,6 +2,17 @@
 
 ## Articles  
 
+### Pain and Suffering  
+* [Link to Article](https://codefellows.github.io/code-401-python-guide/curriculum/class-01/notes/pain_suffering)  
+
+Do not confuse pain with suffering. As suffering is pain without purpose. As we work through this course keep in mind these four questions
+1. What's your perspective?  
+2. Why are you doing this?  
+3. Do you want what comes at the end of this journey?  
+4. Are you doing this for you?  
+
+SEEK REMEDY! Ask questions, research, use your resources and build them up. More than likely someone else is feeling the same pain so be vocal and bind together.
+
 ### Beginners Guide to the Big O 
 * [Link to Article](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)  
 
