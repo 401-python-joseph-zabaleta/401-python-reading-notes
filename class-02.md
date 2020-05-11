@@ -84,10 +84,34 @@ Packages can contain nested `subpackages` to arbitrary depth. The Syntax is simi
 The `pytest` framework makes it easy to write small tests, yet scales to support complex functional testing for applications and libraries.
 
 ### PyTest Tutorial (Up to Section Running tests in parallel)  
-* [Link to Article](https://www.guru99.com/pytest-tutorial.html)
+* [Link to Article](https://www.guru99.com/pytest-tutorial.html)  
+Some Advantages of `pytest` are:  
+
+    - Very easy to start with because of its simple and easy syntax  
+    - Can run tests in parallel  
+    - Can run a specific test or a subset of tests  
+    - Automatically detect tests  
+    - Skip tests  
+    - Open Sources  
+
+    First you must install `pytest`
+    
+    - `pip install pytest==2.9.1`  
+    - Verify with `py.test -h`  
+    - Install pytest-xdist for running tests in parallel  
+    - `pip install pytest-xdist`  
+
+    Test Commands:  
+    
+    - `py.test`
+    - `py.test filename.py`  
+    - `py.test -k substring to match -v`  
+    - `py.test -m name-of-mark`  
+    - `py.test -n 4`  
 
 ### Recursion  
-* [Link to Article](https://www.geeksforgeeks.org/recursion/)
+* [Link to Article](https://www.geeksforgeeks.org/recursion/)  
+Recursion: The process in which a function calls itself directly or indirectly is called recursion and the corresponding function is called as recursive function.  
 
 ## Additional Resources
 * [Python Modules and Packages Companion](https://realpython.com/courses/python-modules-packages/)  
