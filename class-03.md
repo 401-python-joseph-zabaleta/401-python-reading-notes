@@ -58,6 +58,7 @@ Once you a file is opened you will want to action it. There are multiple methods
     - There is plenty of documentation out there to deal with many file types in Python. Two common file types you will work with are `.csv` and `.json`. Below are two articles for reference:  
         - [Reading and Writing CSV Files in Python](https://realpython.com/python-csv/)  
         - [Working With JSON Data in Pythong](https://realpython.com/python-json/)  
+        
 ### Exceptions in Python  
 * [Link to Article](https://realpython.com/python-exceptions/)  
 
