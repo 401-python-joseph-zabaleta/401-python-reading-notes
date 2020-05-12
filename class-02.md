@@ -111,7 +111,7 @@ Some Advantages of `pytest` are:
 
 ### Recursion  
 * [Link to Article](https://www.geeksforgeeks.org/recursion/)  
-Recursion: The process in which a function calls itself directly or indirectly is called recursion and the corresponding function is called as recursive function.  
+Recursion: The process in which a function calls itself directly or indirectly is called recursion and the corresponding function is called as recursive function. There is still more to learn about this topic as this article was hard to read. 
 
 ## Additional Resources
 * [Python Modules and Packages Companion](https://realpython.com/courses/python-modules-packages/)  
