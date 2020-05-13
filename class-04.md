@@ -150,5 +150,7 @@ Objects are encapsulation of variables and functions into a single entity.
 #### Resources from Article  
 - [pytest Website](https://docs.pytest.org/en/latest/)  
 - [Python testing with pytest Book by Pragmatic Programmers](https://pythontesting.net/)  
+  
+  
 ## Bookmark/Skim
 * [Pytest Fixtures](https://docs.pytest.org/en/latest/fixture.html)  
