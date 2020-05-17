@@ -1,0 +1,11 @@
+Class 05 Learning Journal:
+
+Morning:
+Resume building! Having Brook stop by and instructing shows a lot about Code Fellows. We covered a lot , and started to build up resumes for life after 401. One of the best exercises we did was entering into the breakout rooms and did 30 second rounds on acting like a Recruiter. This really put it into perspective how many things stand out at a quick glance of a resume. For my resume I will need to really fluff up my bullets and tailor them better to translate into tech world.
+
+Lunch:
+We got the opportunity to listen to our Campus Director Amanda Iverson, she had a great presentation about Ambiguity and how to combat it. My key take away is to be aware of it, and know what you know and what you do not know. Takes notes, and ask questions to overcome obstacles don't be afraid to ask for help.
+
+Afternoon:
+Big O Notation! It was great to have Ahmad instructing. He was well prepared and covered a great introduction to Big O. I didnt quite understand the whole picture of Big O from our readings until this simple demonstration. We were able to follow along with the drawings and as well as on repl.it . We learned how to calculate the simple Big O calculations as well as a big o cheat sheet. I really got a good base for learning Big O after a simple introduction, the overall discussion with the class was interactive. 
+Linked Lists! Through the reading I learned about how its a linear data structure. Our first encouter of a data structure. We covered the inital concepts of head, current, and next. The camel demonstration was simple, clean and clear. For the lab we have a few more steps to do and hopefully should not take all weeeknd to accomplish. I plan to clean up some labs from the week over the weekend and be ready to go on Monday with no debt! Thanks!
