@@ -1,0 +1,7 @@
+Class 06 Learning Journal:
+
+Feedback report: This is a must keep feature at Code fellows. This really shows that people are reading the feedbacks, issues are addressed, and changes are made. 
+
+Code Review: Back tracked to the last two labs. Covered a lot of solution code. Learned several new tricks and ways of doing things. How to implement a pytest fixture that has a variable you need. This just requires the fixture to return a value to be used. The other neat thing was a covering a list comprehension style. To me it makes a lot of sense and will be a lot nicer than doing a for loop and appending to a list. This can be applied using lists, tuples, etc.
+
+New Content: Covered import random module for python. This allows us to do some random calculations within python for various things. Most importantly will be applied to the lab of the week, Farkle. Next we talked about counter module from the collections library. It a lot of different features worth reading into. It can count lists, uniques, dictionaries, etc. Has built in functions like most_common. During lab we really got to see the Count module in action. If we did not know about this module, then I can see the code being a lot more complex for the counting of each dice rolled. I am sure the Count module is doing this behind the scenes and that is saving us a lot of work. Working in groups was good and fun. We were able to reach all the features for the day, took us some time, but we did finish them. Tomorrow is another day and another task!
