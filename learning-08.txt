@@ -1,0 +1,5 @@
+Class 08: Learning Journal  
+
+Code Review: Today's review was good covering a different way of accomplishing the MVP required for our game. Although my team was lucky enough to have completed all the steps in the review, it was still super helpful as we were able to take away things that helped us refactor and reduce repition in the code. 
+
+New Content: Today was ensuring all the concepts up to this point are being understood and we are able to keep moving along with Greed. Today's lab implemented three new things, cheat fix, zilch, and hot dice. Yesterday the client provided the cheat_fix.txt in the class folder and we brought it into our production code and implemented it yesterday without knowning it was for todays work. Everything went good which gave us time for code challenges and relaxation! Yay!
