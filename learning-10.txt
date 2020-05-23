@@ -1,0 +1,11 @@
+Class 10: Learning Journal
+
+Career Day! These are always good day. Learn a lot about yourself as well as your cohorts. This is really good for remote as we have not met anyone from our current class, and during today we did personal pitches to each other. We got a real sense of how effective there speech was.  
+
+Partner Power Hour: Key take away, if you ask a computer to cure cancer, it will kill all the humans and animals and return cancer cured. This was funny as Adam Eivy from Disney was explaining how automation works. The key point for his statement was when creating automated programs and scripts taht we must always set parameters and limits for our programs. So they don't do more than what we tell them to do. 
+
+Lecture: Friday's needed to be re adjusted , I felt like there was no lunch break. Well I mean I finished the power hour then I had my lunch assuming it would be a 2 o Clock meet up. I noticed in slack a little after one that lecture already started. Career pushed a little past noon right into power hour then into lunch , did not really give us much of a break. Other than that another successful Lecture. Ahmad style of teaching is great. I also learned a new trick with return statements and being able to utilize the "not" with a statement to shorten down the code. 
+
+Challenge: The challenge instruction might not be as clear as one would hope. During lecture we went over the examples of setting up a stack utilizing a list but not really talked about how it can be used for a linked list. Same with the queue, I have started my challenge and will continue to work on it throughout this weekend. I am not worried as I will complete the task at hand before the next class day along with any other tasks that we may need to accomplish. 
+
+Thanks for another great week and on to the next!
