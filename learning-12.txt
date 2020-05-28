@@ -1,0 +1,5 @@
+Class 12: Learning Journal
+
+Today's was not very successful. I find my math skills to be decent but my statistics or working with data is not. I was not able to complete either of the lab, or the code challenge today. I felt like I was 'googling my life away' and that everything I found was way more complicated than it should be. I will have to follow up and complete on free time, or play catch up over this weekend. Pandas has a lot of features and its not really that clear. It was as like everything was being chained together to retrieve the outcome. "this.that.then.this.that.bam". Hopefully I will be able to understand this logic a little bit better and be able to implement it. Until tomorrow.
+
+Thanks,
