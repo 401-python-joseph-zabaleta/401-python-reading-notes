@@ -1,0 +1,7 @@
+Class 13: Learning Journal
+
+I do have a faint memory of learning about linear regression from going to school many years ago. Today's walkthrough had a lot of information and there is still more to explore. I did today's lab while traveling, and I did not choose any interesting data. I just grabbed some sample, practice data, so I could just get the graphs and plot and see them in action. I was happy that it all worked after following along with lecture. I hope to revisit today's lab to replace this practice data with something interesting as well as add on to it, and make other conclusions from the data.
+
+Code challenge: I was able to get it started and will continue to work on this through the weekend. I am not worried about playing catch up over the weekend and come monday should be a fresh start with everything caught back up from my little setback. I already have an idea/strategy for accomplishing this challenge utilizing several if/else conditionals to filter through. setting it up to use a regular expression and matching the brackets in order.
+
+Thanks!
