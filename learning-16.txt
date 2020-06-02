@@ -1,0 +1,5 @@
+Class 16: Learning Journal
+
+Today's Code review, was great. Good pace, good coverage, as well as making the connection into todays code challenge. The lab was more practice on the skills we have been using over the last couple labs. Drawing our own conclusions on datasets. We introduced Seaborn library which simplifies the way we can extract data and put it into a dataframe for manipulation. This lab was fun to utlize and read up about new ways to plot things and view data. I am excited to see if we can combine these skills with tomorrows lecture of web scrapping.
+
+Thanks,
