@@ -1,0 +1,5 @@
+Class 17: Learning Journal
+
+Anothere good code review, and great lecture from both instructors. This demo was clear and left no real hard questions to solve for the lab. This allowed us to focus on the lab itself and really explore what it is to scrap these websites. I am excited to explore more and see what posibilities there are with web scrapping and gathering data that can be useful. Code challenge, we kinda touched on it yesterday talking about a breadth traversal and with yesterdays talk plus todays, I had a good understanding of the project. Project Team is coming along with great ideas and we will begin to solidify them soon. I am glad we are doing this a week ahead. I mentioned in 201 and 301 that they should at least make the teams a week ahead so can dicuss ideas and not waste a whole day planning. This is great we get to plan , think things over, and not be rushed into 5 days.
+
+Thanks,

@@ -1,0 +1,5 @@
+Class 18: Learning Journal
+
+Exciting class! This was pretty cool lecture about encryption and decryption. The code review was also more than normal, it was not only a review but it lead into a side lecture about Big O notation, which is still a bit fuzzy for the majority. Code challenge today was good, I believe it can be accomplished using some of the other traversal methods we built. I went ahead and used the logic from pre-order and instead of creating a collection list, i just keep track of the highest value seen, and adjust as I go. Lucky that I was able to visualize this and not spend hours attempting to solve the problem. I want to dig deeper into encryption and decryption on my free time.  
+
+Thanks,
