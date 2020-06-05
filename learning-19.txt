@@ -1,0 +1,5 @@
+Class 19: Learning Journal
+
+Another good code review, the big thing I leanred today was nonlocal, local, global scope variables. I ran into this problem when tackling the code challenge of yesterday. My fix was just make a new attribute self.maximum for the binary tree itself. Which it works but not optimal like that nonlocal approach. Regex is always a fun thing to play with. I was able to recall how to read files from matlib lab and combine it with the regular expressions library. The reading really set up today's lab well. Team is working out well, we are slowly getting all things ready for project week and will continue to work on the documentation for our project over the weekend. Mock interview was well, I believe once everyone gets a 1 on 1 finished, then we will have a better baseline to operate off and these will go from a small benefit gain, to large one. 
+
+Thanks,
