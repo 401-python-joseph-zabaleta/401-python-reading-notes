@@ -1,9 +1,13 @@
 Instructor Sync: First Half  
 
 What are your goals while taking this course?
+- Goals are to expand my knowledge into a different language besides the initial HTML, CSS, and JS. I originally planned to take 401 JS but was given the opportunity to take Python with short notice. I am glad I am here because I have found that I enjoy Python a lot more than JS.
 
 Are there any areas of concern, questions about the course or adjustments we might consider?
+- Currently I have no concerns or questions at this point in time. The biggest change I would suggest, within the first weeks of this course, and any of the 401s, is to set one day for a whiteboarding class. This might best be accomplished utilizing the full staff of Code Fellows, where you can assign a student to Instructor, or a TA that has been properly trained, has experience of real world whiteboarding to set the true baseline. Then from this point on, everyone knows whats right looks like, feels like, and has a better idea how to approach these. After this the Thursday Mock interviews with peers would be that must better.  
 
 What professional proficiency would you consider to be your top strength?
+- This is always hard to self determine. My go to are always Accountability and Integrity. Those are two things that have been instilled in me for the past 10 years with the military and has been applicable to everything I do outside the military. Traits and skills that are beneficial everywhere.
 
 What areas of professional competency would you like to improve?
+- Tool proficiency, I need to really master the tools I have, and learn more tools. I know my basic away around VS Code but I know I am only using 10% of its features. Another concern is Handling Ambiguity, Imposter syndrome is a real thing, and I am not sure I am work ready as I do not know what I will be doing outside Code Fellows, or where I want to work. I don't even know what a day in the developers life looks like.
