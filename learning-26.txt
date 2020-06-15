@@ -1,0 +1,7 @@
+Class 26: Learning Journal  
+
+Today's learning was all about Django's framework. We went through a lot of content with a lot of trusting this and that. Which is great, since we don't need to know the entire workings of Django to accomplish the small tasks we need to get done. Over time I am sure we will begin to understand/use the other parts of this framework. Today we just barely broke into this new tool, and it was interesting to actually see some HTML after a long while. I am excited to learn more about this and see what we can produce with this within the short time period of class we have. 
+
+Code Challenge was a bit different today. It was in the form of a blog, I am not sure I got the words down right, but it was nice to draw our each pass, or each iteration. I do this mentally in my head and I am sure others do as well. This is a great way to visualize your thought process and see exactly what is happening in our functions.  
+
+Thanks,
