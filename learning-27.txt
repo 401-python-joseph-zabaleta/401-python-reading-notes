@@ -1,0 +1,9 @@
+Class 27: Learning Journal
+
+Today we started to dive deeper into Django. We learned about models, and setting up a "django schema" is how I remember it. Django makes it easy for us to create these tables, and comes with some neat built in features to interact with the tables. With the use of a super user and using the admin page provided with the initial project. We can perform CRUD operations on the data. We also learned how to access this data with the use of different built in views from django. We can extend our view classes with temple view, list view, or other built in views. 
+
+Code Challenge was a bit confusing until I started to track the actually call stack. This is when i realized what was happening after a completed round of recursion. Where we kinda jump back in time, or previously int he code, and start executing the second half of a specific recursive function call. I was able to keep track of each one and follow along the code to eventually annotate the flow. I still need to work on the blog notes on how to really express what my writings on, or best put them so others can understand. 
+
+Readings, have been a lot to read but worth it. Even the skims have paid off, sometimes we don't have time to read a lengthy article. The skims have been great since I pick up on key words and or functions, and then see them the next day in lecture which makes them make more sense. 
+
+Thanks,
