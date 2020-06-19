@@ -1,19 +1,31 @@
 # Reading Notes 30  
-To turn in your reading “Reply” to this discussion by teaching something that you learned from the readings listed below.
 
-Some ideas for how you might want to teach:
+## KEY NOTES
 
-Use an analogy
-Explain a detail in depth
-Use WHY, WHAT, HOW structure
-Tutorial / walk through an example
-Write a quiz
-Create a vocabulary/definition list
-Write a cheat sheet
-Create a diagram / visualization / cartoon of a topic
-Anthropomorphize the concepts, and write a conversation between them
-Build a map of the information
-Construct a fill-in-the-blank worksheet for the topic
+Hash maps do this to store vlaues:
+- accept a key
+- calculate the hash of the key
+- use modulus to convert the has into an array index  
+- store the key with the value by appending both to the end of a linked list  
+
+Hash maps do this to read a value:  
+- accept a key  
+- calculate the has of the key  
+- use modulus to convert the hash into an array index  
+- use the array index to access the short LinkedList representing a bucket   
+- search through the bucket looking for a node with a key/value pair that matches the key you were given.  
+
+Internal methods of a hashtable  
+
+- add()
+    - Adds a new key/value pair to the table  
+- find()
+    - Finds a key/value pair  
+- contains()
+    - Boolean if a key/value pair exists  
+- GetHash()
+    - Takes a key as a string, conducts a hash, and returns the index value.
+
 
 ## Additional Resources  
 * [Read: Intro to Hash Tables](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-30/resources/Hashtables.html)  

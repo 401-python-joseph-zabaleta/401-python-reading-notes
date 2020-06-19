@@ -1,0 +1,7 @@
+Class 28: Learning Journal
+
+We covered a lot, a lot of information! Django has comes built-in with a lot of great tools and its a wonder why this is a free product/service. It was pretty cool to be able to apply all these CRUD opertions within one day. In 301, we broke this down to a week long event , learning how to do one operation per day. Now that we have set up our projects a few days in a row I am finally getting the flow, for setting things up in the order they should be done. Testing along the way. It was rather intersting to see the new way to implement testing, by providing a setup some dummy data for our dummy database.
+
+Code Challenge was fun as always. They are getting more and more involved which how these algorithms go. Quick sort actually has several ways to accomplish the task, by having different ways of determining the pivot value. In our pseudo code we just set it to the last value in the list. Again I found it very helpful to keep track of the actually call stack, and peel them or add on to the stack as I worked through the problem.
+
+Thanks,

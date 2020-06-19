@@ -1,0 +1,7 @@
+Class 29: Learning Journal
+
+Another crazy day in the django world. Learning so much so quickly, I will not retain all this if we were to stop for a week. I do know that it will not be hard to pick back up, if I had too. This was a pretty cool day, as this is the first time we created anything with a login / password situation which is pretty awesome. Still much to learn about how the testing works in django, and so much more to learn about django in general. 
+
+Code Challenge was a success, spent a lot of time just dicussing the code in general, to not only better understand it myself but to also help my class mates see it in a different light. We walked through the call stack to understand how recursion is working and returning to the unfinished functions in the stack. Overall we both were able to make it through the talking part of these code challenges in detail.
+
+Thanks,
