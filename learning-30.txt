@@ -1,0 +1,7 @@
+Class 30: Learning Journal
+
+Today's career day was not that great in my opinion. It was good to see how much information you can learn or gain from asking certain questions. It was also good at seeing what answers other people are using for these questions. Its just not that great, as we are not recruiters, or have no experience in the role. This type of exercise takes a lot of prep involving, knowing the company you are applying for, and having that history of the company on hand. This would be great if we had the time to learn our fake roles better and better role play the situation.  
+
+Code Challenge, this was amazing. Learning about hashmaps really brings light to python dictionaries. This really explains the O(1) look up time question for how a dictionary works. I am looking forward to a simple code review to see if the approach I took is the right path, and right now I have a working solution. I know there are many ways to accomplish the given methods, but its always nice to see alternate ways that could be better.  
+
+Thanks,
