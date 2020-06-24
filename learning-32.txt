@@ -1,0 +1,9 @@
+Class 32: Learning Journal
+
+Long long day. Played a lot of docker and attempting to make it work with my windows machine. I am glad that I am not alone on the issue but not glad that we all are encountering issues rather than learning more code. However after some time, a solution was met with Skyler. We also learned a lot about docker-compose down vs docker-compose stop. Down will Removing the docker, and its network while the stop will just turn it off or exit. I was also playing around with launching a postgres docker stand alone , outside the app, and then linking the app to it. This might work need more time to learn.
+
+Code Challenge, fun , not fun. Only because it was pushed back into after dinner time frame due to lab issues. I was able to complete the task and more than likely its not the best solution, as in the most efficient but it will accomplish the task at hand. 
+
+Tomorrow, more Authentication!
+
+Thanks,

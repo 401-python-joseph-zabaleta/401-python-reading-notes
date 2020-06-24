@@ -1,0 +1,7 @@
+Class 31: Learning Journal
+
+Docker was a lot to learn. Today was a bit crazy with being a windows user I had to do a lot of work to install Docker, Upgrade my WSL to version 2, and make sure it all worked in my BIOS and other places. After all that, its builds and works somewhat. I am glad it works with "localhost". Other than that we learned the first things about docker containers to spin up virtual envs of our entire projects and see it working in actions. Still need to do more reading on this topic to get a better understanding and more practical uses.  
+
+Code Challenge was fun, spending some time thinking of the algorithm I actually got the problem domain wrong. I read it as count the word that occurs most often, then never re read it. Did all my work and even coded the function to do it. Then when I reread the challenge to ensure everything was met, I realized it wanted first repeated word.... the name of the challenge, Duh! So , went back and was able to use similiar code already, some fun regex, and easily accomplished the task. Just funny how one step can mess it all up.
+
+Thanks,
