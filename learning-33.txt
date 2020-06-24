@@ -1,0 +1,9 @@
+Class 33: Learning Journal
+
+Code review was good, nice to see some solutions to code challenges. This really brough more light on the confusing topic of Big O notation. Other than that we learned some magic today. There was a lot of things we added to settings that made our project work but we still need to learn more about what they do. After a lot of debugging yesterday Skyler, and I , and the classmates came up with a working solution that has not failed me yet.
+
+Tokens was a great into, need a whole class on postman it seems like a powerful tool. There was a lot of information about authorization bearer, and I think after a few more lectures this will make more sense, for now , its like ok , yes, nod nod nod, hahaha.
+
+Code Challenge, rather confused about a space complexity when dealing with a matrix, Not quite sure what a list that is O(n) in length, but then it has lists inside that could be O(n) or maybe O(2) I am not sure. Does a matrix have a different space complexity or will this be O(N) based on the holder list.  
+
+Thanks,
