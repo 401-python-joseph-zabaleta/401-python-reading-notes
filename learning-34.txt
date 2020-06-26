@@ -1,0 +1,9 @@
+Class 34: Learning Journal
+
+Today had a another good review. I did the code challenge exactly as we covered in class yesterday a lot of people were unsure of the real problem. I made the connection that a dictionary is a hashmap and that is why I was able to clearly see my inputs for the problem domain. With others doubting if it was right brought doubt to myself this review was good to see it was a success. I knew that my product producted the output it was looking for and I was happy with it even with any doubts.
+
+Lab: I liked the implementation of that environmnets variables file. I was wondering when that came into play, and I am a fan of the separation. Like with all my labs I have used the nested project folder, to keep things nice and organized. I was able to deploy my site via EC2 AWS VM. I originally thought about using Heroku but quickly ran into a situation with having to learn about heroku.yml files. This was a long trouble some I didn't want to exhaust a lot of time in. After talking with a friend, AWS was a simple quick to use solution. I was able to set up a VM and SSH into it, this allowed me launch my code and have it running all the time. 
+
+Code Challenge: These are getting better not as better flow of techniques but really the feedback and conversations the group has. Code challenges are usually lonely, and solo work. Here we are doing a mock interview but in the end we can talk about the assignment and provide different points of views and for this aspect alone I am beginning to like these challenges. I would even suggest maybe in the future, next class cycle or something having a set of code challenges, that are maybe a little more complex but assign pairs to work through them as a team. Similiar to the week of blogs reports we did or even combine it in blog week. This would take two points of views into one challenge and output a clean well documented solution, maybe. Other than that fun day!
+
+Thanks!
