@@ -1,0 +1,9 @@
+Class 35: Learning Journal  
+Today's lecture started off rough. Internet connection was not solid but got fixed. After that we learned about techinical interviews, tools that we should expect and should practice using. Also talked about sites to practice questions to increase our knowledge of coding as well build experience on an online platform such as CodeWars and HackerRank. 
+
+Lab/Challenge: 
+Just touched the ice berg of graphs. This was a cool concepts, and is better than a linked list in a sense, we are now able to do more, and look up things differently. Its a bit harder to test, base on the everyhign being an object, but using the combination of str methods, and length methods we can easily test if things are working the way they should. 
+
+TODO: Lots of career assignments to tackle over the weekend, plus the one last week that was suppose to be moved this week I think but that is what sunday is for. 
+
+Thanks,
