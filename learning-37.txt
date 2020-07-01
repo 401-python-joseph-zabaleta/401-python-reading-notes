@@ -1,0 +1,11 @@
+Class 37: Learning Journal
+
+1. What went well, the creation of the react app went well. It was fast quick and dirty. We were able to create this app, it gave us a lot of free stuff, which I have know idea what is it quite yet. After some time we will be able to know what each file is doing. 
+
+2. I learned the initial steps into react framework, creating components in react, and implementing them in my app. For the code challenge, I attempted to use a for loop to do all my work, when I couldnt figure it out, took a break, came back and it clicked that recursion would be the perfect solution to travel through my network.
+
+3. I still need to learn more about calculating some big o notation. I get lost when talking about for loops that call recursive functions that have for loops. Mind blown.
+
+4. What puzzles me? High level big O, other than that. I have much to learn about react and we have the next week and some days to dive into it.
+
+Thanks,

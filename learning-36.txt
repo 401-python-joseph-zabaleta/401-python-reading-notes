@@ -1,0 +1,7 @@
+Class 36: Learning Journal
+
+Today covered all DSA. It is always interesting the videos I watch on youtube come back to light in classes I take, before it was Simon Sinek and now the TechLead. I have actually watched these videos before without even knowning what a Data Structure was or even the idea of what they were talking about. Today it made a lot more sense and I was able to pick three to talk about. This ties on to doing more with hacker rank, code wars, and just practice practice pratice, get the exposure now so you are more rounded when it comes to an actual interview.
+
+Code Challenge was good, the provided pseudo code was good, not only showed what good pseudo code looks and feels like but was actually a great instruction manual for writing out code today. I realized that breadth first traversal, and depth first traversal, can be breadth first search and depth first search, which you are searching for a specific item. Depending on your algorithm can reach the answer you looking for with better effficiency. Much more to learn.
+
+Thanks,
