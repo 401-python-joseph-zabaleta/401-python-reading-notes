@@ -1,0 +1,5 @@
+Class 38: Learning Journal
+
+React is a beast. Its quite confusing and will take some time to understand it. Today's lab took a big of really following the flow and sometimes writing it down to see what props are being pasted where. I am not a fan of some of the JavaScript logic. I completed my reading about the Next.js, and I am excited to see what this has to offer, and maybe this is better initially we shall see how it all works. Code challenge was fun, I was able to get a good idea of how a whiteboard question might be structured, which was a lot different then I expected. It brought up key things to think about , like knowing what data structure you want to work with. I learned a lot about big O notation with the overview of the mock whiteboard, as well as going over some code challenges. Reading was good, just a skim, been working on presentation, and preparing for that. 
+
+Thanks,
