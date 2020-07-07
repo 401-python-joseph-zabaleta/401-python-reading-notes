@@ -1,0 +1,9 @@
+Class 41: Learning Journal
+
+Today was a good review of last weeks lab plus a few new tricks. The next js could be its own class to be honest. A 401 of django and next js. Boom land a job a start up. It has so much potential and modularity that I do not even know how to compute. The intro to security was a fun application to find a weakness in a given site, the second one of the series was not as easy as the first problem. Stretch it was, but it was cool they provided the code for the working site, in python, to see how it was written which brought memories back to week one and two with classes, and extending classes with our pythonic band members.
+
+Code Challenge: Today was my whiteboard interview and it went well. I am glad took the practice run to get a real feel of how it should go. I also learned more of how to make a notes and explain things throughout my whiteboard today. A good way to think about this was, that some people can do math problems, if given numbers, but if its math problem explain with words they scramble. I did this on my practice run, I knew how to code but when given a different input. We all just need practice at doing the word problems of our challenges. 
+
+Go Team JIJ!
+
+Thanks,
