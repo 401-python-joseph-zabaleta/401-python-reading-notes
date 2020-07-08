@@ -1,0 +1,5 @@
+Class 42: Learning Journal
+
+Did not complete the lab. This lab was out of reach based on the issues of heroku. I can see this being a 2-3 day lab, building on an app each day to accomplish this whole lab. I was unable to get it to deploy heroku properly, I had to remove staticfiles from gitignore to make it work. I spent hours upon hours, but moved on to a quick review of the code challenges. I did not code them out but just did a review of the problems at hand. I will still need to tackle my reading assignments.
+
+Thanks,
