@@ -1,0 +1,5 @@
+Class 43: Learning Journal
+
+Pythonism! I am not sure how I feel about this word or idea. I do know that we learned a lot of interesting things about the magic methods out there. There is so much we do not know yet. So much to still learn and be able to do. I do how ever feel that maybe decorators are not that complex of a topic to bring in earlier in the cycle. Sprinkle some decorators on a few of our labs throughout this whole course would be a great addition. I first did todays lab like our demo, using a linked list its the easiest. I then attempted to do the same with a binary tree, but I got stuck on the initial __iter__ method. Could not figure out how to do a recursion and a yield or even the right approach to find all the values in that tree. Code Challenges I have been reviewing both interview questions and first trying to think of how to solve them but they do not give much information as a lead on which is good. I also take a look at the solutions after attempting to whiteboard them out. This weeks problems have been helpful in seeing how problems can be worded and how they can relate to a specific data structure.
+
+Thanks,
